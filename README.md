@@ -1,5 +1,4 @@
-# central-studio
-Central Studio (ALPHA)
+# Central Studio
 Download de MP3, buscador de BPM/Tom (Key) e Letras.
 
 (English Translated)
