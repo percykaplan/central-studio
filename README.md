@@ -1,5 +1,5 @@
 # Central Studio
-Download de MP3, buscador de BPM/Tom (Key) & Letras.
+Download de MP3, buscador de BPM/Tom (Key) e Letras.
 
 (English Translated)
-MP3 Downloader, Key/BPM Finder & Lyrics.
+MP3 Downloader, Key/BPM Finder and Lyrics.
